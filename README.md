@@ -1,6 +1,6 @@
 # RestoApp
 
-Java App that manages restaurent's layout, reservations, and orders.
+Java App that manages restaurant's layout, reservations, and orders.
 
 The application lets the users:
 <ul>
